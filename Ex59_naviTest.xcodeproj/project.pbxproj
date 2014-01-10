@@ -21,6 +21,7 @@
 		00BE6881187FD631001537B8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00BE6863187FD631001537B8 /* UIKit.framework */; };
 		00BE6889187FD631001537B8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00BE6887187FD631001537B8 /* InfoPlist.strings */; };
 		00BE688B187FD631001537B8 /* Ex59_naviTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00BE688A187FD631001537B8 /* Ex59_naviTestTests.m */; };
+		00BE6896187FD966001537B8 /* DTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00BE6895187FD966001537B8 /* DTViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		00BE6886187FD631001537B8 /* Ex59_naviTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ex59_naviTestTests-Info.plist"; sourceTree = "<group>"; };
 		00BE6888187FD631001537B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00BE688A187FD631001537B8 /* Ex59_naviTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex59_naviTestTests.m; sourceTree = "<group>"; };
+		00BE6894187FD966001537B8 /* DTViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTViewController.h; sourceTree = "<group>"; };
+		00BE6895187FD966001537B8 /* DTViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DTViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				00BE6875187FD631001537B8 /* ViewController.m */,
 				00BE6877187FD631001537B8 /* Images.xcassets */,
 				00BE6866187FD631001537B8 /* Supporting Files */,
+				00BE6894187FD966001537B8 /* DTViewController.h */,
+				00BE6895187FD966001537B8 /* DTViewController.m */,
 			);
 			path = Ex59_naviTest;
 			sourceTree = "<group>";
@@ -249,6 +254,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00BE6896187FD966001537B8 /* DTViewController.m in Sources */,
 				00BE6876187FD631001537B8 /* ViewController.m in Sources */,
 				00BE6870187FD631001537B8 /* AppDelegate.m in Sources */,
 				00BE686C187FD631001537B8 /* main.m in Sources */,
