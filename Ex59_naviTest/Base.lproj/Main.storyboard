@@ -60,7 +60,7 @@
             </objects>
             <point key="canvasLocation" x="664" y="99"/>
         </scene>
-        <!--View Controller-->
+        <!--View Controller - ㅣㅣ-->
         <scene sceneID="qha-10-nfA">
             <objects>
                 <viewController id="6lb-3k-gVd" customClass="DTViewController" sceneMemberID="viewController">
@@ -80,7 +80,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="g7j-gM-80Y"/>
+                    <navigationItem key="navigationItem" title="ㅣㅣ" id="g7j-gM-80Y"/>
                     <connections>
                         <outlet property="webView" destination="kTJ-JP-stS" id="fGe-7h-OUt"/>
                     </connections>
